@@ -1,0 +1,128 @@
+[
+{
+  "customer_id": 1,
+  "address": "5436 Charlotte St",
+  "city": "Kansas city",
+  "state":"Missouri", 
+  "zip": "16066",
+  "phone":"816-719-3564",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+},
+{
+  "customer_id": 2,
+  "address": "5437 Charlotte St",
+  "city": "Kansas city",
+   "state":"Missouri",
+   "zip": "16066",
+  "phone":"816-719-3565",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+},
+{
+  "customer_id": 3,
+  "address": "5438 Charlotte St",
+  "city": "Kansas city",
+   "state":"Missouri",
+   "zip": "16066",
+  "phone":"816-719-3566",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+},
+{
+  "customer_id": 4,
+  "address": "5436 Charlotte St",
+  "city": "Kansas city", 
+  "state":"Missouri",
+  "zip": "16066",
+  "phone":"816-719-3564",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+},
+{
+  "customer_id": 5,
+  "address": "5437 Charlotte St",
+  "city": "Kansas city", 
+  "state":"Missouri",
+  "zip": "16066",
+  "phone":"816-719-3565",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+},
+{
+  "customer_id": 6,
+  "address": "5438 Charlotte St",
+  "city": "Kansas city", 
+  "state":"Missouri",
+  "zip": "16066",
+  "phone":"816-719-3566",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+},
+{
+  "customer_id": 7,
+  "address": "5436 Charlotte St",
+  "city": "Kansas city", 
+  "state":"Missouri",
+  "zip": "16066",
+  "phone":"816-719-3564",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+},
+{
+  "customer_id": 8,
+  "address": "5437 Charlotte St",
+  "city": "Kansas city",
+  "state":"Missouri",
+  "zip": "16066",
+  "phone":"816-719-3565",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+},
+{
+  "customer_id": 9,
+  "address": "5438 Charlotte St",
+  "city": "Kansas city", 
+  "state":"Missouri",
+  "zip": "16066",
+  "phone":"816-719-3566",
+  "items": [
+    1,
+    2,
+    3
+  ]
+  
+}
+]
